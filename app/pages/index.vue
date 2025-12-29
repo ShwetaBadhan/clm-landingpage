@@ -43,20 +43,20 @@
                             <div class="bd-feature-item">
                                 <span class="icon"><svg width="49" height="49" viewBox="0 0 49 49" fill="none"
                               xmlns="http://www.w3.org/2000/svg">
-                              <path d="M22.5 30.5H26.5" stroke="#07A169" stroke-width="3" stroke-linecap="round"
+                              <path d="M22.5 30.5H26.5" stroke="#325889" stroke-width="3" stroke-linecap="round"
                                  stroke-linejoin="round" />
-                              <path d="M24.5 36.5V44.5" stroke="#07A169" stroke-width="3" />
-                              <path d="M16.5 44.5H32.5" stroke="#07A169" stroke-width="3" stroke-linecap="round" />
+                              <path d="M24.5 36.5V44.5" stroke="#325889" stroke-width="3" />
+                              <path d="M16.5 44.5H32.5" stroke="#325889" stroke-width="3" stroke-linecap="round" />
                               <path
                                  d="M18.5 4.5C13.2491 4.5167 10.413 4.67256 8.33782 6.12562C7.47782 6.7278 6.7298 7.4758 6.12764 8.3358C4.5 10.6604 4.5 13.9396 4.5 20.498C4.5 27.0565 4.5 30.3357 6.12764 32.6603C6.7298 33.5203 7.47782 34.2682 8.33782 34.8704C10.6623 36.498 13.9415 36.4981 20.5 36.4981H28.5C35.0584 36.4981 38.3376 36.498 40.6622 34.8704C41.5222 34.2682 42.2702 33.5203 42.8724 32.6603C44.3254 30.5851 44.4812 27.7489 44.498 22.4981"
-                                 stroke="#07A169" stroke-width="3" stroke-linecap="round" />
+                                 stroke="#325889" stroke-width="3" stroke-linecap="round" />
                               <path
                                  d="M39.5 8.79262L39.626 8.70172C41.7416 7.1742 42.7996 6.41044 43.6498 6.77922C44.5 7.148 44.5 8.3706 44.5 10.8158V12.1842C44.5 14.6294 44.5 15.852 43.6498 16.2208C42.7996 16.5896 41.7416 15.8258 39.626 14.2983L39.5 14.2074M31.5 18.5H32.5C35.7998 18.5 37.4498 18.5 38.4748 17.603C39.5 16.706 39.5 15.2624 39.5 12.375V10.625C39.5 7.73764 39.5 6.29398 38.4748 5.39698C37.4498 4.5 35.7998 4.5 32.5 4.5H31.5C28.2002 4.5 26.5502 4.5 25.5252 5.39698C24.5 6.29398 24.5 7.73764 24.5 10.625V12.375C24.5 15.2624 24.5 16.706 25.5252 17.603C26.5502 18.5 28.2002 18.5 31.5 18.5Z"
-                                 stroke="#FFB800" stroke-width="3" stroke-linecap="round" />
+                                 stroke="#67c6ea" stroke-width="3" stroke-linecap="round" />
                            </svg>
                         </span>
-                                <p class="description">Master new languages with access to over 24,000 interactive lessons and
-                                    courses.</p>
+                                <p class="description">Master the industry-proven skills required to enter the high-income world of commercial finance.
+</p>
                             </div>
                         </div>
                     </div>
@@ -65,24 +65,23 @@
                             <div class="bd-feature-item">
                                 <span class="icon"><svg width="49" height="49" viewBox="0 0 49 49" fill="none"
                               xmlns="http://www.w3.org/2000/svg">
-                              <path d="M24.5 44.5L20.5 32.5H4.5L8.5 44.5H24.5ZM24.5 44.5H32.5" stroke="#07A169"
+                              <path d="M24.5 44.5L20.5 32.5H4.5L8.5 44.5H24.5ZM24.5 44.5H32.5" stroke="#325889"
                                  stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
                               <path
                                  d="M24.5 26.5V25.5C24.5 21.7288 24.5 19.8431 23.3284 18.6716C22.1568 17.5 20.2712 17.5 16.5 17.5C12.7288 17.5 10.8431 17.5 9.67158 18.6716C8.5 19.8431 8.5 21.7288 8.5 25.5V26.5"
-                                 stroke="#07A169" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                                 stroke="#325889" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
                               <path
                                  d="M38.5 26.5C38.5 28.7092 36.7092 30.5 34.5 30.5C32.2908 30.5 30.5 28.7092 30.5 26.5C30.5 24.2908 32.2908 22.5 34.5 22.5C36.7092 22.5 38.5 24.2908 38.5 26.5Z"
-                                 stroke="#FFB800" stroke-width="3" />
+                                 stroke="#67c6ea" stroke-width="3" />
                               <path
                                  d="M20.5 8.5C20.5 10.7091 18.7091 12.5 16.5 12.5C14.2909 12.5 12.5 10.7091 12.5 8.5C12.5 6.29086 14.2909 4.5 16.5 4.5C18.7091 4.5 20.5 6.29086 20.5 8.5Z"
-                                 stroke="#07A169" stroke-width="3" />
+                                 stroke="#325889" stroke-width="3" />
                               <path
                                  d="M28.5 35.5H40.5C42.7092 35.5 44.5 37.2908 44.5 39.5V40.5C44.5 42.7092 42.7092 44.5 40.5 44.5H38.5"
-                                 stroke="#FFB800" stroke-width="3" stroke-linecap="round" />
+                                 stroke="#67c6ea" stroke-width="3" stroke-linecap="round" />
                            </svg>
                         </span>
-                                <p class="description">Learn from certified language instructors and native speakers with
-                                    real-world expertise.</p>
+                                <p class="description">Access professional courses and live coaching to structure and close high-value deals with total confidence.</p>
                             </div>
                         </div>
                     </div>
@@ -93,14 +92,13 @@
                               xmlns="http://www.w3.org/2000/svg">
                               <path
                                  d="M34 31.5V28C34 26.067 35.567 24.5 37.5 24.5C38.6562 24.5 39.6814 25.0606 40.3188 25.9248M44.5 37C44.5 34.6544 44.5 33.4816 43.88 32.6738C43.7204 32.4658 43.5342 32.2796 43.3262 32.12C42.5184 31.5 41.3456 31.5 39 31.5H36C33.6544 31.5 32.4816 31.5 31.6738 32.12C31.4658 32.2796 31.2796 32.4658 31.12 32.6738C30.5 33.4816 30.5 34.6544 30.5 37C30.5 39.3456 30.5 40.5184 31.12 41.3262C31.2796 41.5342 31.4658 41.7204 31.6738 41.88C32.4816 42.5 33.6544 42.5 36 42.5H39C41.3456 42.5 42.5184 42.5 43.3262 41.88C43.5342 41.7204 43.7204 41.5342 43.88 41.3262C44.5 40.5184 44.5 39.3456 44.5 37Z"
-                                 stroke="#07A169" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                                 stroke="#325889" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
                               <path
                                  d="M24.5054 42.5C15.0748 42.5 10.3595 42.5 7.42974 39.571C4.5 36.6422 4.5 31.928 4.5 22.5V16.3885C4.5 12.7556 4.5 10.9391 5.26084 9.57612C5.8032 8.60454 6.6051 7.80284 7.57696 7.26064C8.94034 6.5 10.7573 6.5 14.3912 6.5C16.7194 6.5 17.8834 6.5 18.9024 6.88202C21.229 7.75424 22.1884 9.86716 23.2382 11.9663L24.5054 14.5M16.5033 14.5H34.008C38.2226 14.5 40.3298 14.5 41.8436 15.5112C42.499 15.9489 43.0616 16.5114 43.4994 17.1666C44.2874 18.3456 44.4616 19.8849 44.5 22.5"
-                                 stroke="#FFB800" stroke-width="3" stroke-linecap="round" />
+                                 stroke="#67c6ea" stroke-width="3" stroke-linecap="round" />
                            </svg>
                         </span>
-                                <p class="description">Study at your own pace, anytime and anywhere, with unlimited access on
-                                    all your devices.</p>
+                                <p class="description">Build a 6–7 figure business with direct entry to our nationwide network of best lenders.</p>
                             </div>
                         </div>
                     </div>
@@ -136,7 +134,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/1.webp" alt="English Course">
+                                            <img src="/images/projects/Success Stories resize_01.jpg" alt="English Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -164,7 +162,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/2.webp" alt="Spanish Course">
+                                            <img src="/images/projects/Success Stories resize_02.jpg" alt="Spanish Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -190,7 +188,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/3.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_03.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -215,7 +213,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/4.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_04.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -240,7 +238,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/5.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_05.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -265,7 +263,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/6.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_06.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -290,7 +288,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/7.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_07.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -315,7 +313,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/8.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_08.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -340,7 +338,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/9.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_09.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -365,7 +363,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/10.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_010.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -536,7 +534,7 @@
                         <div class="bd-testimonial-wrapper style-eight">
                             <div class="bd-testimonial-thumb-wrapper">
                                 <div class="bd-testimonial-thumb">
-                                    <img src="/images/testimonial/testimonial-thumb-01.webp" alt="image">
+                                    <img src="/images//projects/Testimonial.jpg" alt="image">
                                 </div>
                                 <div class="bd-testimonial-counter bounce-slide">
                                     <div class="bd-testimonial-counter-thumb">
@@ -684,22 +682,28 @@
                             </div>
                             <div class="bd-brand-wrapper style-six">
                                 <div class="bd-trusted-partner">
-                                    <img src="/images/partner/1.webp" alt="" class="w-100">
+                                    <img src="/images/brand/01.jpg" alt="" >
                                 </div>
                                 <div class="bd-trusted-partner">
-                                    <img src="/images/partner/8.webp" alt="">
+                                    <img src="/images/brand/02.jpg" alt="">
                                 </div>
                                 <div class="bd-trusted-partner">
-                                    <img src="/images/partner/2.webp" alt="">
+                                    <img src="/images/brand/03.jpg" alt="">
                                 </div>
                                 <div class="bd-trusted-partner">
-                                    <img src="/images/partner/3.webp" alt="">
+                                    <img src="/images/brand/04.jpg" alt="">
                                 </div>
                                 <div class="bd-trusted-partner">
-                                    <img src="/images/partner/4.webp" alt="">
+                                    <img src="/images/brand/05.jpg" alt="">
                                 </div>
                                 <div class="bd-trusted-partner">
-                                    <img src="/images/partner/6.webp" alt="">
+                                    <img src="/images/brand/06.jpg" alt="">
+                                </div>
+                                <div class="bd-trusted-partner">
+                                    <img src="/images/brand/07.jpg" alt="">
+                                </div>
+                                <div class="bd-trusted-partner">
+                                    <img src="/images/brand/08.jpg" alt="">
                                 </div>
                                
                             </div>

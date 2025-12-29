@@ -1,25 +1,6 @@
-<script>
-export default {
-  mounted() {
-    // Run modal every 25 seconds
-    this.modalInterval = setInterval(() => {
-      const modalEl = document.getElementById('masterclassModal')
-
-      if (modalEl) {
-        const modal = new bootstrap.Modal(modalEl)
-        modal.show()
-      }
-    }, 25000) // 25 seconds
-  },
-
-  beforeUnmount() {
-    // Clear interval when component is destroyed
-    clearInterval(this.modalInterval)
-  }
-}
-</script>
 
 <template>
+    
        <!-- Modal -->
     <div class="modal fade" id="masterclassModal" tabindex="-1" aria-labelledby="masterclassModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered modal-md">
@@ -40,7 +21,7 @@ export default {
                         <span class="feature-badge"><i class="fas fa-check me-1"></i> Q&A Session</span>
                     </div>
 
-                    <form id="masterclassForm">
+                    <form @submit.prevent="submitForm">
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <label for="fullName" class="form-label">
@@ -48,7 +29,7 @@ export default {
                                 </label>
                                 <div class="input-group">
                                     <span class="input-group-text"><i class="fas fa-user"></i></span>
-                                    <input type="text" class="form-control" id="fullName" placeholder="First Name" required>
+                                    <input type="text" class="form-control" id="firstName" placeholder="First Name" required>
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -57,7 +38,7 @@ export default {
                                 </label>
                                 <div class="input-group">
                                     <span class="input-group-text"><i class="fas fa-user"></i></span>
-                                    <input type="text" class="form-control" id="fullName" placeholder="Last Name" required>
+                                    <input type="text" class="form-control" id="lastName" placeholder="Last Name" required>
                                 </div>
                             </div>
                             
@@ -102,3 +83,54 @@ export default {
     </div>
 
 </template>
+<script setup>
+import Swal from "sweetalert2";
+
+const submitForm = async (e) => {
+  e.preventDefault();
+
+  const form = e.target;
+
+  const data = {
+    firstName: form.querySelector("#firstName").value,
+    lastName: form.querySelector("#lastName").value,
+    email: form.querySelector("#email").value,
+    phone: form.querySelector("#phone").value,
+    slug: "commercial-lending-mastery"
+  };
+
+  try {
+    const res = await fetch(
+      "https://api-lendingcart.vibrantick.org/public/landing-leads/clm",
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(data)
+      }
+    );
+
+    if (!res.ok) {
+      const text = await res.text();
+      throw new Error(`API failed: ${res.status} - ${text}`);
+    }
+
+    Swal.fire({
+      icon: "success",
+      title: "Success",
+      text: "Registered successfully"
+    });
+
+    form.reset();
+
+  } catch (err) {
+    console.error(err);
+    Swal.fire({
+      icon: "error",
+      title: "Error",
+      text: "Something went wrong. Please try again."
+    });
+  }
+};
+</script>
+
+
